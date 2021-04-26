@@ -1,0 +1,19 @@
+h1{
+  color: #0000FF ;
+}
+.change {
+  color: #0000FF
+  text-align: right;
+}
+
+firstview.jpeg{
+  positon: relative;
+  left: 400px;
+}
+.emphasis{
+  font-size: 32px;
+  font-weight: bold;
+}
+body{
+  background-color: #0000FF
+}

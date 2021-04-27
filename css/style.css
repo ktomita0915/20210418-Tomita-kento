@@ -14,6 +14,8 @@ firstview.jpeg{
   font-size: 32px;
   font-weight: bold;
 }
-body{
-  background-color: #0000FF
+.div {
+　background-color: #0000FF
+  width: 150px;
+  height  :50px;
 }

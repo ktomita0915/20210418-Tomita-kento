@@ -1,25 +1,40 @@
-h1{
-  color: #0000FF ;
+.parent{
+ color:#0000FF;
+ display: flex;
 }
-.change {
-  color: #0000FF
-  text-align: right;
+change {
+  color:blue;
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+
+ }
+ .child{
+   width: 100px;
+   padding: 10px;
+   margin: 10px;
+
+ }
+ .firstview-jpeg {
+   position: relative;
+   top :30%
+ }
+img{
+  position: absolute;
+  top: 50px;
+  left: 650px;
 }
+ .emphasis{
+   font-size: 32px;
+   font-weight: bold;
+}
+  .first {
+  background-color: blue;
+  width: 700px;
+  height:150px;
+  margin-bottom: 500px;
+  }
 
 
 
-div class=firstview.jpeg {　
-  position relative; -50px; z-index: index 1;
 
-  left: 20px
-}
-.emphasis{
-  font-size: 32px;
-  font-weight: bold;
-}
-.test {
-background-color: #0000FF；
-background-position: relative; top: 50px; z-index: 2;
-width: 2143px;
-height: 384px;
-}

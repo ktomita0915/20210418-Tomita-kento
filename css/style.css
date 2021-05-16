@@ -1,6 +1,7 @@
 .parent{
  color:#0000FF;
  display: flex;
+ padding: 20px;
 }
 change {
   color:blue;
@@ -21,8 +22,9 @@ change {
  }
 img{
   position: absolute;
-  top: 50px;
-  left: 650px;
+  top: 100px;
+  right: 200px;
+  width: 30%;
 }
  .emphasis{
    font-size: 32px;
@@ -32,7 +34,7 @@ img{
   background-color: blue;
   width: 700px;
   height:150px;
-  margin-bottom: 500px;
+  margin-bottom: 300px;
   }
 
 
